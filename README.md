@@ -1,12 +1,12 @@
-# Eat-ze-Burger!
+# Eat-the-Burger!
 This assignment was created to show a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM. I also followed the MVC (Model-View-Controller) design pattern. I used Node and MySQL to query and route data in my app, and Handlebars to generate my HTML.
 
 To see the app in action, click the link below:
 
-https://peaceful-cove-39715.herokuapp.com/
+https://quiet-scrubland-49398.herokuapp.com/
 
 ## How to Use:
-The user places their order at the bottom of the page, where there is a form to input their preferred burger. After clicking the "Order!" button, their burger will populate on the left column under "Bon appétit!" as well as a "Mangé!" button at the bottom. When the user decides to eat their burger, the burger will then be displayed on the right column under "Ordres Précédentes" (Previous Orders).
+The user places their order at the bottom of the page, where there is a form to input their preferred burger. After clicking the "Order!" button, their burger will populate on the left column under "Enjoy your meal!" as well as a "Eat it!" button at the bottom. When the user decides to eat their burger, the burger will then be displayed on the right column under "Previous Orders".
 
 ## Directory structure
 
