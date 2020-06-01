@@ -1,0 +1,40 @@
+body {
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+    background-color: rgb(241, 232, 217);
+}
+
+.mainTitle, .title {
+    font-family: Times, Georgia, serif;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.prevTitle {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+#row1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#row2 {
+    margin-bottom: 20px;
+}
+
+.orderBurger {
+    text-align: center;
+}
+
+.chef, .burger{
+    display: inline-flex;
+    align-items: center;
+    width: 300px;
+}
+
+.ordered-burger {
+    padding: 3px;
+}
