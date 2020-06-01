@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lydmgem/Burger-Logger.git"
+    "url": "git+https://github.com/Miteshmodi003/Burger-Logger.git"
   },
   "keywords": [],
   "author": "Lydia Malupa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lydmgem/Burger-Logger/issues"
+    "url": "https://github.com/Miteshmodi003/Burger-Logger/issues"
   },
-  "homepage": "https://github.com/lydmgem/Burger-Logger#readme",
+  "homepage": "https://github.com/Miteshmodi003/Burger-Logger#readme",
   "dependencies": {
     "dotenv": "^7.0.0",
     "express": "^4.17.1",
